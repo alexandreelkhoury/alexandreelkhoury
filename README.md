@@ -1,7 +1,7 @@
-- Hi, I’m @alexandreelkhoury
-- I’m interested in blockchain
+- Hi, I’m Alex
+- I’m interested in blockchain and web3
 - I’m currently learning solidity
-- Inscrit à la formation de l'école Blockchain Alyra, 'développeur blockchain & smart contracts'
-- You can reach me on 07 49 99 04 69
+- Inscrit à la formation 'développeur blockchain & smart contracts' de l'école Blockchain Alyra, 
+- Open to work on Paris, you can reach me on 07 49 99 04 69.
 
 
