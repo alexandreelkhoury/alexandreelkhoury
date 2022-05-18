@@ -1,7 +1,6 @@
 - Hi, I’m Alex
-- I’m interested in blockchain and web3
-- I’m currently learning blockchain development
-- Inscrit à la formation 'développeur blockchain & smart contracts' de l'école Blockchain Alyra, 
-- Open to work on Paris, you can reach me on 07 49 99 04 69.
-
+- I’m a web3 developer 
+- I'm certified by Alyra Blockchain School
+- I'm focusing on NFTs, more projects coming ! 
+- Open to work : 07 49 99 04 69 !
 
